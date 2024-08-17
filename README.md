@@ -15,3 +15,18 @@ make them usable in Resonite with `[0, 0, 0]` offset, `[0, 0, 0]` rotation, and
   grabbable objects will need to be scaled down to a smaller size.
 - Try to keep geometry centred around the zero-point to avoid needing to
   manually position the object in Resonite.
+
+## Asset Creation Notes
+
+- Add a Transform > `ObjectRoot` component to the top-most object in the item's
+  hierarchy for easier inspector navigation.
+- Export icons as 256x256 PNGs, and attach them to the root object as an
+  owned `StaticTexture2D` component.
+
+  Add the icon as a thumbnail with a Uncategorized >
+  `ItemTextureThumbnailSource` component on the root object.
+- Add a child object named `by Lixquid` to the root object.
+
+  All used assets should be owned by assets in this object to make it easier to
+  track what assets are used in the item (unless there's a more appropriate
+  object to own the assets).
