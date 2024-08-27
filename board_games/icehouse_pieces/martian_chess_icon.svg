@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient4">
+      <stop
+         style="stop-color:#2c72c7;stop-opacity:1;"
+         offset="0"
+         id="stop4" />
+      <stop
+         style="stop-color:#00438a;stop-opacity:1;"
+         offset="1"
+         id="stop5" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient4"
+       id="linearGradient5"
+       x1="0"
+       y1="0"
+       x2="32"
+       y2="32"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="g1">
+    <rect
+       style="fill:url(#linearGradient5)"
+       id="rect4"
+       width="32"
+       height="32"
+       x="0"
+       y="0" />
+    <path
+       style="opacity:0.1;fill:#000000;stroke-width:1.66505"
+       d="M 4.0000002,6.8422759 V 25.157724 H 28 L 18.842276,15.999999 28,6.8422759 H 23.291059 L 16.487806,13.645529 10.660163,7.8178859 V 12.52683 l 3.473169,3.473169 -4.1626012,4.162602 h 4.7089432 l 1.808132,-1.808131 3.47317,3.473172 H 7.3300817 V 6.8422759 Z"
+       id="path1-6" />
+  </g>
+  <path
+     id="path9"
+     style="color:#000000;fill:#ffffff;stroke-linecap:square;stroke-miterlimit:8;stroke-dashoffset:0.8;-inkscape-stroke:none;paint-order:markers stroke fill"
+     d="M 21.5,5.5 C 16.259227,5.5 12,9.7592276 12,15 c 0,3.028075 1.423179,5.726327 3.634766,7.466797 L 16.125,21.587891 C 14.216729,20.030211 13,17.65993 13,15 c 0,-4.700333 3.799667,-8.5 8.5,-8.5 4.700333,0 8.5,3.799667 8.5,8.5 0,2.65993 -1.216729,5.030211 -3.125,6.587891 l 0.490234,0.878906 C 29.576821,20.726327 31,18.028075 31,15 31,9.7592276 26.740773,5.5 21.5,5.5 Z" />
+  <path
+     style="fill:none;stroke:#ffffff;stroke-linecap:round;stroke-miterlimit:8;stroke-dashoffset:0.8;paint-order:markers stroke fill"
+     d="m 21.5,15 -5,9 5,2 5,-2 z"
+     id="path12" />
+  <path
+     style="fill:none;stroke:#ffffff;stroke-linecap:round;stroke-miterlimit:8;stroke-dashoffset:0.8;paint-order:markers stroke fill"
+     d="M 21.5,15 V 26"
+     id="path13" />
+  <circle
+     style="fill:#ffffff;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-miterlimit:8;stroke-dashoffset:0.8;paint-order:markers stroke fill"
+     id="path17"
+     cx="19.500002"
+     cy="23.000002"
+     r="0.5" />
+  <circle
+     style="fill:#ffffff;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-miterlimit:8;stroke-dashoffset:0.8;paint-order:markers stroke fill"
+     id="path17-3"
+     cx="23.500002"
+     cy="23.000002"
+     r="0.5" />
+  <circle
+     style="fill:#ffffff;stroke:none;stroke-linecap:square;stroke-miterlimit:8;stroke-dashoffset:0.8;paint-order:markers stroke fill"
+     id="path10"
+     cx="25.5"
+     cy="10"
+     r="1" />
+  <circle
+     style="fill:#ffffff;stroke:none;stroke-linecap:square;stroke-miterlimit:8;stroke-dashoffset:0.8;paint-order:markers stroke fill"
+     id="path11"
+     cx="27.5"
+     cy="11.5"
+     r="0.5" />
+  <circle
+     style="fill:#ffffff;stroke:none;stroke-linecap:square;stroke-miterlimit:8;stroke-dashoffset:0.8;paint-order:markers stroke fill"
+     id="path14"
+     cx="26"
+     cy="12.5"
+     r="0.5" />
+  <path
+     id="rect18"
+     style="color:#000000;fill:#ffffff;stroke-linecap:square;stroke-miterlimit:8;stroke-dashoffset:0.8;-inkscape-stroke:none;paint-order:markers stroke fill"
+     d="M 1 1 L 1 15 L 11 15 C 11 14.662597 11.017408 14.329439 11.048828 14 L 11 14 L 11 11 L 8 11 L 8 14 L 5 14 L 5 11 L 2 11 L 2 8 L 5 8 L 5 5 L 2 5 L 2 2 L 5 2 L 5 5 L 8 5 L 8 2 L 11 2 L 11 5 L 14 5 L 14 7.6679688 C 14.31368 7.3471911 14.647871 7.0483688 15 6.7695312 L 15 1 L 1 1 z M 11 5 L 8 5 L 8 8 L 11 8 L 11 5 z M 11 8 L 11 11 L 11.796875 11 C 12.256233 9.8922934 12.899752 8.8799927 13.689453 8 L 11 8 z M 8 8 L 5 8 L 5 11 L 8 11 L 8 8 z M 1 17 L 1 31 L 15 31 L 15 25.015625 L 14.361328 24.759766 L 15 23.611328 L 15 23.230469 C 14.647871 22.951631 14.31368 22.652809 14 22.332031 L 14 24 L 11 24 L 11 27 L 14 27 L 14 30 L 11 30 L 11 27 L 8 27 L 8 30 L 5 30 L 5 27 L 2 27 L 2 24 L 5 24 L 5 21 L 2 21 L 2 18 L 5 18 L 5 21 L 8 21 L 8 18 L 11 18 L 11 21 L 12.896484 21 C 12.069995 19.819508 11.479787 18.463512 11.195312 17 L 1 17 z M 11 21 L 8 21 L 8 24 L 11 24 L 11 21 z M 8 24 L 5 24 L 5 27 L 8 27 L 8 24 z " />
+</svg>
